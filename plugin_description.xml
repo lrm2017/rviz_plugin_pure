@@ -1,0 +1,9 @@
+<library path="lib/libpure_rviz_plugin">
+  <class name="pure_rviz_plugin/Teleop"
+         type="pure_rviz_plugin::PurePursuit"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget allowing simple ackermann style robot base control.
+    </description>
+  </class>
+</library>
